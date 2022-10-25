@@ -14,6 +14,8 @@
 
 <tr>
 <td>Iniciar Sesión:
+  Usuario:
+  Contraseña
 <input type="text" name="a" id="a">
 </td>
 </tr>
